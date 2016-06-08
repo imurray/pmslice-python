@@ -13,7 +13,7 @@ This small Python module makes it easy to drop pseudo-marginal slice
 sampling into whatever (Python) MCMC code you already have. In our
 demonstration `demo.py` a pseudo-marginal slice-sampling scheme only
 needs three extra lines of code compared to its conventional MCMC version.
-None of them required deriving anything problem-specific.
+None of these lines required deriving anything problem-specific.
 
 `simple_slice.py` is a helper used in the demonstration. The only file you
 need to drop into your MCMC codebase (and all that setup.py installs) is

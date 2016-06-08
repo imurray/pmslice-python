@@ -1,4 +1,4 @@
-### First a demo of conventional of MCMC for comparison:
+### First a demo of conventional MCMC for comparison:
 ################################################################################
 
 from __future__ import print_function
